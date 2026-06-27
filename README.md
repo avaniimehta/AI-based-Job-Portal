@@ -1,4 +1,4 @@
-# 💼 JobPortal — Full Stack Job Portal
+# 💼 CareerNest- AI based JobPortal
 
 A complete job portal with **React frontend** + **Node.js/Express backend** + **MySQL database**.
 
