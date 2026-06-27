@@ -1,14 +1,6 @@
 # CareerNest
 AI-powered Job Portal built with React, Node.js, MySQL, and Ollama LLM that provides intelligent job recommendations, AI-generated job descriptions, secure authentication, and job management features.
 
-# AI-Based Job Portal
-
-An AI-powered Job Portal that connects job seekers with recruiters using intelligent job recommendations and AI-generated job descriptions.
-
-The project integrates a Large Language Model (LLM) using Ollama to enhance the recruitment experience through smart recommendations and automated content generation.
-
----
-
 ## Features
 
 ### User
